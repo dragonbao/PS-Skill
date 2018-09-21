@@ -15,3 +15,4 @@ tips: 先拉取自由变换图形的右侧边界线，使得图形的底部与�
 6. 自由变换操作完毕，使用剪切工具，裁剪图片，快捷键为‘shift + c’ 选取所需要的裁剪工具即可。
 7. 使用快捷键‘ctrl + alt + i’ 设置图片的大小，例如在固定比例的情况下 使用 15*12.9 的大小  
 分辨率考虑使用 150~200， 此区间段的范围内：所得到的图片大小为 1M~ 3M 左右，适合做排版工作.
+8.some pic url  http://pic.qiantucdn.com/58pic/22/91/80/57ea2a2ec6305_1024.jpg!/fw/1024/watermark/url/L2ltYWdlcy93YXRlcm1hcmsveGlhb3R1LnBuZw==/align/center
