@@ -1,6 +1,6 @@
 # PS-Skill
 A repository record PS Skill usefull for work
-## 倾斜图片拉正步骤如下:  
+## 倾斜图片(自由变换)拉正步骤:  
 1. 图片改为CMSK 模式
 2. 多边形套索工具->>框选需要操作的形状 ->> 在框选区域内使用快捷键 ‘ctrl + shift + i’ 完成  
 反选操作，按下delect键，删除选区外的像素，得到要操作的区域，
